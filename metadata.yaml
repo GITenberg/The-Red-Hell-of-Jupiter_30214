@@ -1,0 +1,32 @@
+_repo: The-Red-Hell-of-Jupiter_30214
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30214-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ernst, Paul
+    alias: Ernst, Paul Frederick
+    birthdate: 1899
+    deathdate: 1985
+    gutenberg_agent_id: '25157'
+    url: http://www.gutenberg.org/2009/agents/25157
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Ernst_(Avenger_writer)
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2009-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jupiter (Planet) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Red Hell of Jupiter
+url: http://www.gutenberg.org/ebooks/30214
