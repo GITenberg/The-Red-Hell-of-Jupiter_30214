@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25157
     wikipedia: http://en.wikipedia.org/wiki/Paul_Ernst_(Avenger_writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30214#The-Red-Hell-of-Jupiter
 gutenberg_bookshelf:
 - Science Fiction
 - Astounding Stories
